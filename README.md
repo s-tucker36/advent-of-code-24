@@ -4,7 +4,7 @@ Completing [Advent of Code 2024](https://adventofcode.com/2024) in Python.
 | Day | Description                                   | Solution                     |
 |-----|-----------------------------------------------|------------------------------|
 | 1   | [Day 1 Description](https://adventofcode.com/2024/day/1) | [Day 1 Solution](./Day_1/day_1.py) |
-| 2   | [Day 2 Description](https://adventofcode.com/2024/day/2) | Day 2 Solution |
+| 2   | [Day 2 Description](https://adventofcode.com/2024/day/2) | [Day 2 Solution](./Day_2/day_2.py) |
 | 3   | [Day 3 Description](https://adventofcode.com/2024/day/3) | Day 3 Solution |
 | 4   | [Day 4 Description](https://adventofcode.com/2024/day/4) | Day 4 Solution |
 | 5   | [Day 5 Description](https://adventofcode.com/2024/day/5) | Day 5 Solution |
